@@ -1,8 +1,9 @@
-# CS 420 Project 1
+# Tile Puzzle AI
 
+### CS 420 Project 1
 ### Michael Vanderloo
 
-This project was done in golang. You will need to install golang and update GOPATH to include this directory.
+This project was done in golang. You will need to install golang and update GOPATH to include this directory. 
 
 ## Install Golang
 
