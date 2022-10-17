@@ -1,0 +1,42 @@
+{
+  "log file": "log",
+  "random seed": 0,
+  "metrics": {
+    "initial state": true,
+    "num misplaced tiles": true,
+    "max solution length": true,
+    "status": true,
+    "execution time": true,
+    "solution length": true,
+    "nodes explored": true,
+    "frontier size": true,
+    "nodes evaluated": true,
+    "solution path": false
+  },
+  "default inputs": {
+    "heuristics": [2],
+    "time limit": 0
+  },
+  "inputs": [
+    {
+      "size": 5,
+      "swaps": 10000000
+    },
+    {
+      "size": 6,
+      "swaps": 10000000
+    },
+    {
+      "size": 7,
+      "swaps": 10000000
+    },
+    {
+      "size": 8,
+      "swaps": 10000000
+    },
+    {
+      "size": 9,
+      "swaps": 10000000
+    }
+  ]
+}

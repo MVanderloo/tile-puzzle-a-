@@ -1,0 +1,381 @@
+17:57:39 02/10/22
+Random Seed: 1664747859040
+
++----------------------------------+
+
+Puzzle: 0-1
+Size: 2
+Initial: 
++----+----+
+|  2 |  1 |
++----+----+
+|  3 |    |
++----+----+
+Initial Misplaced Tiles: 2
+Swaps Used to Generate: 10
+Heuristic: Number of Misplaced (1)
+
+Status: solved, Valid: true
+Execution time: 0.000s
+Solution Length: 2
+Nodes Explored: 3
+Frontier Size: 1
+Nodes Evaluated: 2
+
++----------------------------------+
+
+Puzzle: 0-2
+Size: 2
+Initial: 
++----+----+
+|  2 |  1 |
++----+----+
+|  3 |    |
++----+----+
+Initial Misplaced Tiles: 2
+Swaps Used to Generate: 10
+Heuristic: Manhattan Distance (2)
+
+Status: solved, Valid: true
+Execution time: 0.000s
+Solution Length: 2
+Nodes Explored: 3
+Frontier Size: 1
+Nodes Evaluated: 2
+
++----------------------------------+
+
+Puzzle: 0-3
+Size: 2
+Initial: 
++----+----+
+|  2 |  1 |
++----+----+
+|  3 |    |
++----+----+
+Initial Misplaced Tiles: 2
+Swaps Used to Generate: 10
+Heuristic: Maxsort Swaps (3)
+
+Status: solved, Valid: true
+Execution time: 0.000s
+Solution Length: 2
+Nodes Explored: 3
+Frontier Size: 1
+Nodes Evaluated: 2
+
++----------------------------------+
+
+Puzzle: 0-4
+Size: 2
+Initial: 
++----+----+
+|  2 |  1 |
++----+----+
+|  3 |    |
++----+----+
+Initial Misplaced Tiles: 2
+Swaps Used to Generate: 10
+Heuristic: Euclidian Distance (4)
+
+Status: solved, Valid: true
+Execution time: 0.000s
+Solution Length: 2
+Nodes Explored: 3
+Frontier Size: 1
+Nodes Evaluated: 2
+
++----------------------------------+
+
+Puzzle: 1-1
+Size: 2
+Initial: 
++----+----+
+|  1 |  3 |
++----+----+
+|    |  2 |
++----+----+
+Initial Misplaced Tiles: 3
+Swaps Used to Generate: 3
+Heuristic: Number of Misplaced (1)
+
+Status: solved, Valid: true
+Execution time: 0.000s
+Solution Length: 3
+Nodes Explored: 4
+Frontier Size: 1
+Nodes Evaluated: 3
+
++----------------------------------+
+
+Puzzle: 1-2
+Size: 2
+Initial: 
++----+----+
+|  1 |  3 |
++----+----+
+|    |  2 |
++----+----+
+Initial Misplaced Tiles: 3
+Swaps Used to Generate: 3
+Heuristic: Manhattan Distance (2)
+
+Status: solved, Valid: true
+Execution time: 0.000s
+Solution Length: 3
+Nodes Explored: 5
+Frontier Size: 1
+Nodes Evaluated: 4
+
++----------------------------------+
+
+Puzzle: 1-3
+Size: 2
+Initial: 
++----+----+
+|  1 |  3 |
++----+----+
+|    |  2 |
++----+----+
+Initial Misplaced Tiles: 3
+Swaps Used to Generate: 3
+Heuristic: Maxsort Swaps (3)
+
+Status: solved, Valid: true
+Execution time: 0.000s
+Solution Length: 3
+Nodes Explored: 5
+Frontier Size: 1
+Nodes Evaluated: 4
+
++----------------------------------+
+
+Puzzle: 1-4
+Size: 2
+Initial: 
++----+----+
+|  1 |  3 |
++----+----+
+|    |  2 |
++----+----+
+Initial Misplaced Tiles: 3
+Swaps Used to Generate: 3
+Heuristic: Euclidian Distance (4)
+
+Status: solved, Valid: true
+Execution time: 0.000s
+Solution Length: 3
+Nodes Explored: 5
+Frontier Size: 1
+Nodes Evaluated: 4
+
++----------------------------------+
+
+Puzzle: 2-1
+Size: 3
+Initial: 
++----+----+----+
+|  2 |  1 |  5 |
++----+----+----+
+|  8 |    |  7 |
++----+----+----+
+|  4 |  6 |  3 |
++----+----+----+
+Initial Misplaced Tiles: 7
+Swaps Used to Generate: 20
+Heuristic: Number of Misplaced (1)
+
+Status: solved, Valid: true
+Execution time: 1.219s
+Solution Length: 20
+Nodes Explored: 6330
+Frontier Size: 2322
+Nodes Evaluated: 4008
+
++----------------------------------+
+
+Puzzle: 2-2
+Size: 3
+Initial: 
++----+----+----+
+|  2 |  1 |  5 |
++----+----+----+
+|  8 |    |  7 |
++----+----+----+
+|  4 |  6 |  3 |
++----+----+----+
+Initial Misplaced Tiles: 7
+Swaps Used to Generate: 20
+Heuristic: Manhattan Distance (2)
+
+Status: solved, Valid: true
+Execution time: 0.017s
+Solution Length: 20
+Nodes Explored: 729
+Frontier Size: 283
+Nodes Evaluated: 446
+
++----------------------------------+
+
+Puzzle: 2-3
+Size: 3
+Initial: 
++----+----+----+
+|  2 |  1 |  5 |
++----+----+----+
+|  8 |    |  7 |
++----+----+----+
+|  4 |  6 |  3 |
++----+----+----+
+Initial Misplaced Tiles: 7
+Swaps Used to Generate: 20
+Heuristic: Maxsort Swaps (3)
+
+Status: solved, Valid: true
+Execution time: 3.942s
+Solution Length: 20
+Nodes Explored: 11694
+Frontier Size: 4079
+Nodes Evaluated: 7615
+
++----------------------------------+
+
+Puzzle: 2-4
+Size: 3
+Initial: 
++----+----+----+
+|  2 |  1 |  5 |
++----+----+----+
+|  8 |    |  7 |
++----+----+----+
+|  4 |  6 |  3 |
++----+----+----+
+Initial Misplaced Tiles: 7
+Swaps Used to Generate: 20
+Heuristic: Euclidian Distance (4)
+
+Status: solved, Valid: true
+Execution time: 0.029s
+Solution Length: 20
+Nodes Explored: 952
+Frontier Size: 362
+Nodes Evaluated: 590
+
++----------------------------------+
+
+Puzzle: 3-1
+Size: 3
+Initial: 
++----+----+----+
+|  2 |    |  5 |
++----+----+----+
+|  8 |  1 |  7 |
++----+----+----+
+|  4 |  6 |  3 |
++----+----+----+
+Initial Misplaced Tiles: 8
+Swaps Used to Generate: 21
+Heuristic: Number of Misplaced (1)
+
+Status: solved, Valid: true
+Execution time: 2.164s
+Solution Length: 21
+Nodes Explored: 8654
+Frontier Size: 3167
+Nodes Evaluated: 5487
+
++----------------------------------+
+
+Puzzle: 3-2
+Size: 3
+Initial: 
++----+----+----+
+|  2 |    |  5 |
++----+----+----+
+|  8 |  1 |  7 |
++----+----+----+
+|  4 |  6 |  3 |
++----+----+----+
+Initial Misplaced Tiles: 8
+Swaps Used to Generate: 21
+Heuristic: Manhattan Distance (2)
+
+Status: solved, Valid: true
+Execution time: 0.023s
+Solution Length: 21
+Nodes Explored: 847
+Frontier Size: 328
+Nodes Evaluated: 519
+
++----------------------------------+
+
+Puzzle: 3-3
+Size: 3
+Initial: 
++----+----+----+
+|  2 |    |  5 |
++----+----+----+
+|  8 |  1 |  7 |
++----+----+----+
+|  4 |  6 |  3 |
++----+----+----+
+Initial Misplaced Tiles: 8
+Swaps Used to Generate: 21
+Heuristic: Maxsort Swaps (3)
+
+Status: solved, Valid: true
+Execution time: 7.211s
+Solution Length: 21
+Nodes Explored: 15860
+Frontier Size: 5443
+Nodes Evaluated: 10417
+
++----------------------------------+
+
+Puzzle: 3-4
+Size: 3
+Initial: 
++----+----+----+
+|  2 |    |  5 |
++----+----+----+
+|  8 |  1 |  7 |
++----+----+----+
+|  4 |  6 |  3 |
++----+----+----+
+Initial Misplaced Tiles: 8
+Swaps Used to Generate: 21
+Heuristic: Euclidian Distance (4)
+
+Status: solved, Valid: true
+Execution time: 0.047s
+Solution Length: 21
+Nodes Explored: 1237
+Frontier Size: 468
+Nodes Evaluated: 769
+
++----------------------------------+
+
+Puzzle: 4-2
+Size: 4
+Initial: 
++----+----+----+----+
+|  1 |  2 |  7 | 12 |
++----+----+----+----+
+| 11 |    |  5 |  3 |
++----+----+----+----+
+|  4 | 10 | 13 | 15 |
++----+----+----+----+
+|  8 |  9 |  6 | 14 |
++----+----+----+----+
+Initial Misplaced Tiles: 15
+Swaps Used to Generate: 66
+Heuristic: Manhattan Distance (2)
+
+Status: solved, Valid: true
+Execution time: 3578.029s
+Solution Length: 38
+Nodes Explored: 254977
+Frontier Size: 120123
+Nodes Evaluated: 134854
+
++----------------------------------+
