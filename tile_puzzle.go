@@ -330,7 +330,7 @@ func (p Puzzle) tryMove(m Move) Puzzle {
 }
 
 /**
- * returns a copy of the puzzle with the move made
+ * returns if p is a successor to prev, meaning it takes 1 move to go between p and prev
  **/
 func (p Puzzle) isSuccessorTo(prev Puzzle) bool {
 	for _, m := range prev.getMoves() {
